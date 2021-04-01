@@ -1,0 +1,25 @@
+{
+  "name": "template-jsapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmorrisondev/template-jsapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmorrisondev/template-jsapi/issues"
+  },
+  "homepage": "https://github.com/bmorrisondev/template-jsapi#readme",
+  "dependencies": {
+    "@brianmmdev/faunaservice": "^1.0.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0"
+  }
+}
